@@ -1,16 +1,31 @@
-## Hi there 👋
+---
 
-<!--
-**hussainarifofficial/hussainarifofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hussain Arif  
+### Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me  
+I am a passionate web developer with over a year of experience building custom digital solutions. I create user-friendly admin panels and full-stack web applications tailored to client needs. I enjoy solving problems, learning new technologies, and delivering efficient, practical solutions.  
+
+---
+
+### Technical Skills  
+- **Languages**: JavaScript, PHP, Python, C++  
+- **Frontend**: HTML5, CSS, SCSS  
+- **Backend**: MySQL, Custom CMS/Admin Panels  
+- **Other Tools**: Git (Version Control)  
+
+---
+
+### Projects  
+[Coming Soon]
+
+---
+
+### Contact Me  
+- **Email**: [hussainarif@mail.com](mailto:hussainarif@mail.com)  
+- **LinkedIn**: [hussainarifofficial](https://www.linkedin.com/in/hussainarifofficial)  
+- **Portfolio**: [Coming Soon]  
+
+---
