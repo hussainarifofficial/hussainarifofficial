@@ -26,6 +26,6 @@ I am a passionate web developer with over a year of experience building custom d
 ### Contact Me  
 - **Email**: [hussainarif@mail.com](mailto:hussainarif@mail.com)  
 - **LinkedIn**: [hussainarifofficial](https://www.linkedin.com/in/hussainarifofficial)  
-- **Portfolio**: [Coming Soon]  
+- **Portfolio**: [hussainarif.com](https://hussainarif.com) 
 
 ---
