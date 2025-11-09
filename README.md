@@ -28,7 +28,7 @@ I enjoy problem-solving, learning modern tech stacks, and building intuitive sys
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [hussainarif@mail.com](mailto:hussainarif@mail.com)  
+- 📧 **Email:** [contact@hussainarif.com](mailto:contact@hussainarif.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/hussainarifofficial](https://www.linkedin.com/in/hussainarifofficial)  
 - 🌐 **Portfolio:** [hussainarif.com](https://hussainarif.com)
 
